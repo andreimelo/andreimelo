@@ -1,9 +1,7 @@
 ### Hi there, I'm [Andrei!](https://andreimelo.com) 👋
 
-  <div style="float:left;">
+  <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=andreimelo&show_icons=true&theme=tokyonight" alt="Andrei's github stats"/>
-  </div>
-  <div style="float:right;">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andreimelo&layout=compact&theme=tokyonight" />
   </div>
 
