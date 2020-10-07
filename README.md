@@ -1,8 +1,11 @@
 ### Hi there, I'm [Andrei!](https://andreimelo.com) 👋
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreimelo&show_icons=true&theme=tokyonight" alt="Andrei's github stats"/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andreimelo&layout=compact&theme=tokyonight" />
- 
+  <div style="float:left;">
+  <img  src="https://github-readme-stats.vercel.app/api?username=andreimelo&show_icons=true&theme=tokyonight" alt="Andrei's github stats"/>
+  </div>
+  <div style="float:right;">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andreimelo&layout=compact&theme=tokyonight" />
+  </div>
 
 
 <!--
