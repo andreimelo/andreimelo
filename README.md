@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm [Andrei!](https://andreimelo.com) 👋
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreimelo&show_icons=true&theme=tokyonight" alt="Andrei's github stats" />
+
 
 <!--
 **andreimelo/andreimelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
