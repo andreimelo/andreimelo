@@ -7,9 +7,12 @@
 - 📫  How to reach me:
   [Twitter](https://twitter.com/imdreimelo), [Instagram](https://instagram.com/dremelo_)
 
+---
 
-  <div style="float:left;">
+  <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=andreimelo&show_icons=true&theme=tokyonight" alt="Andrei's github stats"/>
+  </div>
+  <div>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andreimelo&layout=compact&theme=tokyonight" />
   </div>
 
