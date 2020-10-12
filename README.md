@@ -5,7 +5,7 @@
 - 👯  I’m looking to collaborate on open source/commercial projects
 - 💬  Ask me about **Web Development**
 - 📫  How to reach me:
-  [Twitter](https://twitter.com/imdreimelo), [Instagram](https://instagram.com/dremelo_), and [Facebook](https://www.facebook.com/andrei.agno.melo)
+  [Twitter](https://twitter.com/imdreimelo), [Instagram](https://instagram.com/dremelo_), [Facebook](https://www.facebook.com/andrei.agno.melo), and [DEV](https://dev.to/andreimelo)
 
 ---
 
