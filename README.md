@@ -1,7 +1,7 @@
 ### Hi there, I'm [Andrei!](https://andreimelo.com) 👋
 
 - 🔭  I’m currently working as **Software Developer - Asticom Technology Inc.**
-- 🌱  I’m currently learning **Svelte-Angular-MongoDB**
+- 🌱  I’m currently learning **SvelteJS-AngularJS-NodeJS-MongoDB**
 - 👯  I’m looking to collaborate on open source/commercial projects
 - 💬  Ask me about **Web Development**
 - 📫  How to reach me:
