@@ -1,4 +1,4 @@
-### Hi there, I'm [Andrei!](https://andreimelo.com) 👋
+### Hi there, I'm [Andrei!](http://andreimelo.netlify.app) 👋
 
 - 🔭  I’m currently working as **Application Developer - Asticom Technology Inc.**
 - 🌱  I’m currently learning **React Native-Node-MongoDB-Typescript**
