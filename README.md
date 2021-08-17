@@ -1,6 +1,6 @@
 ### Hi there, I'm [Andrei!](http://andreimelo.netlify.app) 👋
 
-- 🔭  I’m currently working as **ReactJS Developer - Accenture**
+- 🔭  I’m currently working as **ReactJS Developer - eTeam**
 - 🌱  I’m currently learning **React Native-Node-MongoDB-Typescript**
 - 👯  I’m looking to collaborate on open source/commercial projects
 - 📫  How to reach me:
