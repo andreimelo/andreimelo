@@ -1,6 +1,6 @@
 ### Hi there, I'm [Andrei!](http://andreimelo.netlify.app) 👋
 
-- 🔭  I’m currently working as **ReactJS Developer**
+- 🔭  I’m a **ReactJS Developer/Frontend Developer**
 - 🌱  I’m currently learning **VueJS-Node-MongoDB-Typescript**
 - 👯  I’m looking to collaborate on open source/commercial projects
 
